@@ -25,5 +25,3 @@ cd $project_name
 ## TODO
 1. Build production configs
 
-## Screenshot
-![screenshot](screenshot.png)
